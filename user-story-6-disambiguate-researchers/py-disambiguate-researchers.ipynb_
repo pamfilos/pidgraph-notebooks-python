@@ -4,7 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "![FREYA Logo](https://github.com/datacite/pidgraph-notebooks-python/blob/master/images/freya_200x121.png?raw=true) | [FREYA](https://www.project-freya.eu/en) | WP2 [User Story 6](https://www.pidforum.org/t/pid-graph-graphql-example-disambiguate-researchers/931): As a researcher, I am looking for more information about another researcher with a common name, but don’t know his/her ORCID ID.\n",
+    " [FREYA](https://www.project-freya.eu/en) | WP2 [User Story 6](https://www.pidforum.org/t/pid-graph-graphql-example-disambiguate-researchers/931): As a researcher, I am looking for more information about another researcher with a common name, but don’t know his/her ORCID ID.\n",
     ":------------- | :------------- | :-------------\n",
     "\n",
     "It is important to be able to locate a researcher of interest even though their ORCID ID is unknown. For example, a reader of a scientific publication may wish to find out more about one of the authors, whereby the publisher has not cross-referenced that author's name to ORCID.<p />\n",

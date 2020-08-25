@@ -4,7 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    " ![FREYA Logo](https://github.com/datacite/pidgraph-notebooks-python/blob/master/images/freya_200x121.png?raw=true) | [FREYA](https://www.project-freya.eu/en) WP2 [User Story 2](https://github.com/datacite/freya/issues/63) | As a software author, I want to be able to see the citations of my software aggregated across all versions, so that I see a complete picture of reuse.\n",
+    "  [FREYA](https://www.project-freya.eu/en) WP2 [User Story 2](https://github.com/datacite/freya/issues/63) | As a software author, I want to be able to see the citations of my software aggregated across all versions, so that I see a complete picture of reuse.\n",
     " :------------- | :------------- | :-------------\n",
     "\n",
     "Software development process involves versioned releases. Consequently, different software versions may be used for scientific discovery and thus referenced in publications. In order to quantify impact of a software, its author must be able to capture the reuse of the software across all its versions.<p />\n",

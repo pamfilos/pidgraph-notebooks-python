@@ -4,7 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    " ![FREYA Logo](https://github.com/datacite/pidgraph-notebooks-python/blob/master/images/freya_200x121.png?raw=true) | [FREYA](https://www.project-freya.eu/en) WP2 [User Story 8](https://github.com/datacite/freya/issues/38) | As a longitudinal study, I want to be able to deduplicate the metrics/impact for our data, so that I can see the impact of our study’s data as a whole.\n",
+    "  [FREYA](https://www.project-freya.eu/en) WP2 [User Story 8](https://github.com/datacite/freya/issues/38) | As a longitudinal study, I want to be able to deduplicate the metrics/impact for our data, so that I can see the impact of our study’s data as a whole.\n",
     " :------------- | :------------- | :-------------\n",
     "\n",
     "Scientific datasets may be composed of individual components, whereby the parent and each component are identified by a different DOI and hence can be cited, viewed and downloaded individually. In order to assess the reuse such datasets, their authors must be able to aggregate views, downloads and citations metrics across all the dataset components.<p />\n",

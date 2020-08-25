@@ -4,7 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    " ![FREYA Logo](https://github.com/datacite/pidgraph-notebooks-python/blob/master/images/freya_200x121.png?raw=true) | [FREYA](https://www.project-freya.eu/en) WP2 [User Story 9](https://github.com/datacite/freya/issues/26) | As a bibliometrician, I want to know all the co-authors of a particular researcher, so that I can do a network analysis of the researcher's collaborations.\n",
+    "  [FREYA](https://www.project-freya.eu/en) WP2 [User Story 9](https://github.com/datacite/freya/issues/26) | As a bibliometrician, I want to know all the co-authors of a particular researcher, so that I can do a network analysis of the researcher's collaborations.\n",
     " :------------- | :------------- | :-------------\n",
     "\n",
     "A number of useful analyses are made possible by identifying co-authorship groups of a given researcher, for example identifying other active scientists in the researcher's field of study, or groups of closely collaborating (and often co-funded) author affiliations.<p />\n",
