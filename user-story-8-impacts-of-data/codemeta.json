@@ -81,6 +81,7 @@
     "jupyter"
 ],
 "name": "FREYA PID Graph - Impacts of Data",
+"binderUrl": "https://mybinder.org/v2/gh/datacite/pidgraph-notebooks-python/master?filepath=user-story-8-impacts-of-data%2Fpy-impacts-of-data-with-output.ipynb",
 "version": "1.1.1",
 "programmingLanguage": {
 "name": "Python",

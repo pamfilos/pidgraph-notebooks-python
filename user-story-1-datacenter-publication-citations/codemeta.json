@@ -85,6 +85,7 @@
         "global biodiversity information facility"
     ],
 "name": "FREYA PID Graph - Datacenter Publication Citations",
+"binderUrl": "https://mybinder.org/v2/gh/datacite/pidgraph-notebooks-python/master?filepath=user-story-1-datacenter-publication-citations%2Fpy-datacenter-publication-citations-with-output.ipynb",
 "version": "1.1.1",
 "programmingLanguage": {
 "name": "Python",

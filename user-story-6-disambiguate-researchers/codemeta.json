@@ -81,6 +81,7 @@
     "jupyter"
 ],
 "name": "FREYA PID Graph - Disambiguate researchers",
+"binderUrl": "https://mybinder.org/v2/gh/datacite/pidgraph-notebooks-python/master?filepath=user-story-6-disambiguate-researchers%2Fpy-disambiguate-researchers-with-output.ipynb",
 "version": "1.1.1",
 "programmingLanguage": {
 "name": "Python",

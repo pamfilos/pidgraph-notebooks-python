@@ -81,6 +81,7 @@
     "jupyter"
 ],
 "name": "FREYA PID Graph - Researcher Co-authors",
+"binderUrl": "https://mybinder.org/v2/gh/datacite/pidgraph-notebooks-python/master?filepath=user-story-9-researcher-coauthors%2Fpy-researcher-coauthors-with-output.ipynb",
 "version": "1.1.1",
 "programmingLanguage": {
 "name": "Python",

@@ -81,6 +81,7 @@
         "jupyter"
     ],
 "name": "FREYA PID Graph - Software Citations",
+"binderUrl": "https://mybinder.org/v2/gh/datacite/pidgraph-notebooks-python/master?filepath=user-story-2-software-citations%2Fpy-software-citations-with-output.ipynb",
 "version": "1.1.1",
 "programmingLanguage": {
 "name": "Python",

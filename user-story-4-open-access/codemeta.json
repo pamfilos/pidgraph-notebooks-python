@@ -87,6 +87,7 @@
     "SNF (Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung, Switzerland)"
     ],
 "name": "FREYA PID Graph - License Types",
+"binderUrl": "https://mybinder.org/v2/gh/datacite/pidgraph-notebooks-python/master?filepath=user-story-4-open-access%2Fpy-open-access-with-output.ipynb",
 "version": "1.1.1",
 "programmingLanguage": {
 "name": "Python",

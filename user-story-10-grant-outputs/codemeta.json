@@ -75,12 +75,13 @@
 },
 "tags": [
     "pid graph",
-    "pid",        
+    "pid",
     "graphql",
     "freya",
     "jupyter"
     ],
 "name": "FREYA PID Graph - Grant Outputs",
+"binderUrl": "https://mybinder.org/v2/gh/datacite/pidgraph-notebooks-python/master?filepath=user-story-10-grant-outputs%2Fpy-grant-outputs-with-output.ipynb",
 "version": "1.1.1",
 "programmingLanguage": {
 "name": "Python",

@@ -82,6 +82,7 @@
     "oxford university"
 ],
 "name": "FREYA PID Graph - Impacts of Organisation",
+"binderUrl": "https://mybinder.org/v2/gh/datacite/pidgraph-notebooks-python/master?filepath=user-story-3-impacts-of-organization%2Fpy-impacts-of-organization-with-output.ipynb",
 "version": "1.1.1",
 "programmingLanguage": {
 "name": "Python",
